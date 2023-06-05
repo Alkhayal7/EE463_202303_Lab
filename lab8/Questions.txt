@@ -1,0 +1,3 @@
+1945541
+python ./pagetrans.py -a 4k -p 512 -r 64k -s 101 
+python ./pagetablesize.py -v 32 -e 8 -p 16k
